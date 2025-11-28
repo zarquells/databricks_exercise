@@ -1,0 +1,51 @@
+﻿id_transacao,data,cliente_id,produto,categoria,quantidade,preco_unitario,valor_total,forma_pagamento,regiao
+1,2025-01-01,C001,Notebook A,Eletrônicos,1,3500.0,3500.0,Cartão Crédito,SP
+2,2025-01-01,C002,Camiseta Azul,Vestuário,2,50.0,100.0,Pix,RJ
+3,2025-01-01,C003,Geladeira X,Eletrodoméstico,1,2500.0,2500.0,Boleto,MG
+4,2025-01-02,C002,Notebook A,Eletrônicos,1,3500.0,3500.0,Cartão Débito,RJ
+5,2025-01-02,C004,Smartwatch Y,Eletrônicos,1,900.0,900.0,Pix,SP
+6,2025-01-02,C005,Camiseta Azul,Vestuário,3,50.0,150.0,Dinheiro,RS
+7,2025-01-03,C006,Fone Bluetooth,Eletrônicos,1,200.0,200.0,Cartão Crédito,BA
+8,2025-01-03,C007,Notebook A,Eletrônicos,2,3500.0,7000.0,Pix,SP
+9,2025-01-03,C008,Cafeteira Z,Eletrodoméstico,1,300.0,300.0,Boleto,MG
+10,2025-01-03,C009,Camiseta Azul,Vestuário,1,50.0,50.0,Cartão Crédito,RJ
+11,2025-01-09,C004,Smartwatch Y,Eletrônicos,4,900.0,3600.0,Cartão Débito,MG
+12,2025-01-08,C026,Micro-ondas K,Eletrodoméstico,3,600.0,1800.0,Dinheiro,MG
+13,2025-01-07,C041,Notebook A,Eletrônicos,4,3500.0,14000.0,Cartão Débito,PR
+14,2025-01-09,C005,Tênis RunFast,Vestuário,1,350.0,350.0,Pix,RJ
+15,2025-01-06,C008,Cafeteira Z,Eletrodoméstico,1,300.0,300.0,Boleto,MG
+16,2025-01-04,C026,Camiseta Azul,Vestuário,1,50.0,50.0,Cartão Crédito,MG
+17,2025-01-04,C018,Cafeteira Z,Eletrodoméstico,4,300.0,1200.0,Cartão Crédito,BA
+18,2025-01-10,C043,Notebook A,Eletrônicos,1,3500.0,3500.0,Cartão Débito,PE
+19,2025-01-09,C007,Micro-ondas K,Eletrodoméstico,1,600.0,600.0,Pix,RS
+20,2025-01-04,C047,Notebook A,Eletrônicos,1,3500.0,3500.0,Cartão Débito,RJ
+21,2025-01-05,C021,Fone Bluetooth,Eletrônicos,3,200.0,600.0,Dinheiro,PR
+22,2025-01-06,C044,"TV 50""",Eletrônicos,5,2800.0,14000.0,Pix,MG
+23,2025-01-10,C012,Jaqueta Couro,Vestuário,5,500.0,2500.0,Dinheiro,RS
+24,2025-01-10,C031,Fone Bluetooth,Eletrônicos,4,200.0,800.0,Cartão Débito,SC
+25,2025-01-02,C036,Notebook A,Eletrônicos,5,3500.0,17500.0,Pix,PR
+26,2025-01-04,C038,Fone Bluetooth,Eletrônicos,5,200.0,1000.0,Pix,BA
+27,2025-01-03,C041,Geladeira X,Eletrodoméstico,1,2500.0,2500.0,Pix,BA
+28,2025-01-10,C026,Camiseta Azul,Vestuário,2,50.0,100.0,Pix,PE
+29,2025-01-07,C035,Tênis RunFast,Vestuário,1,350.0,350.0,Cartão Débito,BA
+30,2025-01-02,C022,Camiseta Azul,Vestuário,2,50.0,100.0,Cartão Débito,SP
+31,2025-01-07,C017,Micro-ondas K,Eletrodoméstico,2,600.0,1200.0,Cartão Débito,SC
+32,2025-01-09,C014,"TV 50""",Eletrônicos,2,2800.0,5600.0,Cartão Débito,SP
+33,2025-01-04,C028,Smartwatch Y,Eletrônicos,1,900.0,900.0,Cartão Crédito,SC
+34,2025-01-10,C018,Geladeira X,Eletrodoméstico,4,2500.0,10000.0,Pix,SC
+35,2025-01-08,C043,Notebook A,Eletrônicos,2,3500.0,7000.0,Pix,RS
+36,2025-01-08,C014,Tênis RunFast,Vestuário,4,350.0,1400.0,Pix,RS
+37,2025-01-01,C008,Camiseta Azul,Vestuário,1,50.0,50.0,Cartão Crédito,SC
+38,2025-01-06,C016,Geladeira X,Eletrodoméstico,3,2500.0,7500.0,Cartão Débito,BA
+39,2025-01-08,C016,Camiseta Azul,Vestuário,5,50.0,250.0,Cartão Débito,MG
+40,2025-01-01,C040,Notebook A,Eletrônicos,3,3500.0,10500.0,Cartão Crédito,RS
+41,2025-01-02,C025,Smartwatch Y,Eletrônicos,4,900.0,3600.0,Cartão Crédito,PR
+42,2025-01-03,C007,Smartwatch Y,Eletrônicos,2,900.0,1800.0,Boleto,RS
+43,2025-01-03,C042,Jaqueta Couro,Vestuário,4,500.0,2000.0,Boleto,PR
+44,2025-01-04,C026,Cafeteira Z,Eletrodoméstico,1,300.0,300.0,Boleto,RJ
+45,2025-01-09,C031,Notebook A,Eletrônicos,4,3500.0,14000.0,Dinheiro,PE
+46,2025-01-08,C022,Tênis RunFast,Vestuário,3,350.0,1050.0,Cartão Crédito,MG
+47,2025-01-04,C025,Cafeteira Z,Eletrodoméstico,2,300.0,600.0,Boleto,SC
+48,2025-01-03,C047,Cafeteira Z,Eletrodoméstico,1,300.0,300.0,Cartão Débito,SC
+49,2025-01-02,C002,Fone Bluetooth,Eletrônicos,5,200.0,1000.0,Cartão Crédito,MG
+50,2025-01-08,C040,Cafeteira Z,Eletrodoméstico,4,300.0,1200.0,Cartão Crédito,RS
